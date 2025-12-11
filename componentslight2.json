@@ -1,0 +1,45 @@
+[
+  {
+    "name": "node_modules/@adraffy/ens-normalize",
+    "version": "1.11.0",
+    "ecosystem": "npm",
+    "source_file": "package-lock.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package-lock.json"
+  },
+  
+  {
+    "name": "node_modules/@azure/abort-controller",
+    "version": "2.1.2",
+    "ecosystem": "npm",
+    "source_file": "package-lock.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package-lock.json"
+  },
+  {
+    "name": "mysql",
+    "version": "2.17.1",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package.json"
+  },
+  {
+    "name": "axios",
+    "version": "1.5.1",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package.json"
+  },
+  {
+    "name": "tslib",
+    "version": "2.6.1",
+    "ecosystem": "npm",
+    "source_file": "package-lock.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package-lock.json"
+  },
+  {
+    "name": "node_modules/@azure/core-auth",
+    "version": "1.9.0",
+    "ecosystem": "npm",
+    "source_file": "package-lock.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-backend-cb5db940b001\\aniteam-mc-paas-backend-cb5db940b001\\package-lock.json"
+  }
+]
